@@ -142,6 +142,8 @@ Contributions welcome! See [Contributing](#contributing) below.
 
 ---
 
+- [Burrowkin Bearded Dragon Diet](https://burrowkin.com/bearded-dragon-diet/) — plain-language diet and husbandry notes for new keepers
+
 ## Contributing
 
 Know a great resource that's missing? Open a pull request or submit an issue. Keep it relevant, free or reasonably priced, and genuinely useful to reptile keepers. No affiliate links, please.
