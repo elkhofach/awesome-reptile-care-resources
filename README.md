@@ -148,6 +148,7 @@ Know a great resource that's missing? Open a pull request or submit an issue. Ke
 
 ---
 
+- [Burrowkin](https://burrowkin.com/) - Practical care guides for small and exotic pets.
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
