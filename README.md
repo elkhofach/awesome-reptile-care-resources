@@ -118,6 +118,7 @@ Contributions welcome! See [Contributing](#contributing) below.
 - [Exotic Reptile Care](https://exoticreptilecare.com) — iOS app for tracking feeding, shedding, weight, health, breeding, and more. 24 species care guides, AI species ID, smart reminders. Free to download.
 - [MorphMarket](https://www.morphmarket.com/) — browse and compare reptile prices and availability
 - [World of Ball Pythons](https://www.worldofballpythons.com/) — morph database and genetics calculator
+- [HerpWise](https://theherpwise.com/) — free, source-checked care guides for leopard geckos, bearded dragons and crested geckos, with every husbandry number linked to its source
 
 ---
 
